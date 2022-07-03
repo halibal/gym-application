@@ -7,6 +7,7 @@ body {
 	padding: 0px;
 	margin: 0px;
 	box-sizing: border-box;
+
 }
 
 ::-webkit-scrollbar {
@@ -111,6 +112,7 @@ body {
 		height: 300px;
 	}
 
+
 	.react-horizontal-scrolling-menu--scroll-container {
 		width: 500px;
 	}
@@ -132,6 +134,7 @@ body {
 		width: 320px;
 		height: 300px;
 	}
+
 }
 
 @media screen and (max-width:400px) {
